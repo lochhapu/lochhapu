@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello, world
 
 <!--
 **lochhapu/lochhapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 I'm Lochana B. Hapugoda 
+- 🔭 I’m currently working on uni final project.
+- 🌱 I’m currently learning Figma, Flutter, Spring & Django.
+- 😄 For fun I'm currently learning to make 2d games with Pygame!
+- 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/lochana-hapugoda/).
+- ⚡ Fun fact: I love Cubing!
