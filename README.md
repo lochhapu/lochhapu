@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on uni final project.
 - 🌱 I’m currently learning Figma, Flutter, Spring & Django.
 - 😄 For fun I'm currently learning to make 2d games with Pygame!
-- 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/lochana-hapugoda/).
+- 📫 How to reach me: my <a href="https://google.com" target="_blank">linkedin</a>
 - ⚡ Fun fact: I love Cubing!
