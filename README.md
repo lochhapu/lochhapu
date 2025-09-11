@@ -1,4 +1,4 @@
-## hello, world
+## hello, world!
 
 <!--
 **lochhapu/lochhapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Figma & Flutter.
 - 😄 For fun I'm currently learning to make 2d games with Pygame!
 - 📫 How to reach me: my [linkedin](https://www.linkedin.com/in/lochana-hapugoda/)
-- ⚡ Fun fact: I love [Cubing](https://www.youtube.com/@TheCubingDuckie)!
+- ⚡ Fun fact: I love [cubing](https://www.youtube.com/@TheCubingDuckie)!
