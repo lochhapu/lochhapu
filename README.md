@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 I'm Lochana B. Hapugoda - Student of Computing.
+- 👋 I'm Lochana B. Hapugoda - student of computing.
 - 🔭 I’m currently working on uni final project.
 - 🌱 I’m currently learning Figma & Flutter.
 - 😄 For fun I'm currently learning to make 2d games with Pygame!
