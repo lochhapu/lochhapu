@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 For fun I'm currently learning to make 2d games with Pygame!
 - 📫 How to reach me: my [linkedin](https://www.linkedin.com/in/lochana-hapugoda/).
 - ⚡ Fun fact: I love [cubing](https://www.youtube.com/@TheCubingDuckie)!
+
+<img alt="languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochhapu&theme=gruvbox">
