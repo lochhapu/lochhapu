@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👋 I'm Lochana B. Hapugoda - student of computing.
 - 🔭 I’m currently working on uni final project.
 - 🌱 I’m currently learning Figma & Flutter.
-- 😄 For fun I'm currently learning to make 2d games with Pygame!
+- 😄 For fun I'm learning to make 2d games with Pygame!
 - 📫 How to reach me: my [linkedin](https://www.linkedin.com/in/lochana-hapugoda/).
 - ⚡ Fun fact: I love [cubing](https://www.youtube.com/@TheCubingDuckie)!
 
